@@ -43,7 +43,7 @@ features                                  :
 
   - title: Lost Watch Alert
     description: Your iPhone buzzes the moment your Watch is left behind.
-    fontawesome_icon_name: watch
+    fontawesome_icon_name: clock
 
   - title: Play Sound
     description: Trigger a loud ring on your missing device with one tap—ideal for finding it under cushions, in bags or between car seats.
