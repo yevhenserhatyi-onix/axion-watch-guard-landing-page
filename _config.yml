@@ -37,8 +37,6 @@ mastodon_link                             :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-
-  features:
   - title: Lost Phone Alert
     description: Your Watch vibrates the instant your iPhone drifts out of Bluetooth range.
     fontawesome_icon_name: mobile-alt
