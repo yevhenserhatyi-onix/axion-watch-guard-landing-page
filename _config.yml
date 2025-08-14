@@ -33,7 +33,13 @@ github_username                           :
 youtube_username                          :
 mastodon_link                             : 
 
-
+iphone_screenshots:
+  - assets/screenshot/scr1.png
+  - assets/screenshot/scr2.png
+  - assets/screenshot/scr3.png
+  - assets/screenshot/scr4.png
+  - assets/screenshot/scr5.png 
+  - assets/screenshot/scr6.png
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
